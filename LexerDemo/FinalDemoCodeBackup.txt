@@ -1,0 +1,27 @@
+"Final_Demo_Code"
+
+"This_is_a_ 
+block_comment"
+
+"This_is_a_line_comment"
+
+"Variables"
+rav num1:3.14;
+rav num2: 42;
+rav myString:'sdrawkcab_tnirp_ot_gniog_si_siht';
+
+"Operators"
+num1;
+num1 - num2;
+num1 + num2;
+num1/num2;
+num1*num2;
+
+"Comparators"
+num1 = num2;
+num1 != num2;
+num1 < num2;
+num1 > num2;
+
+"Printing"
+tnirp 'olleh';

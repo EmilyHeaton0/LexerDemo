@@ -1,0 +1,13 @@
+rav,Keyword,Declares a variable
+tnirp,Keyword,Prints to the console
+;,End of Statement,Ends the statement
++,Operator,Subtraction
+-,Operator,Addition
+*,Operator,Division
+/,Operator,Multiplication
+:,Operator,Assignment operator
+=,Operator,Does not equal (compare operator)
+!=,Operator,Equals (compare operator) 
+<,Operator,Greater than (compare operator) 
+>,Operator,Less than (compare operator)
+hcir,Operator,rich backwards 
